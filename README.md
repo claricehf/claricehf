@@ -1,4 +1,8 @@
-<p align="center">
+
+
+
+
+<p align="left">
   <img src="https://i.pinimg.com/736x/23/8d/f7/238df79732e768edb4e6dbe80b876808.jpg" width="50%" />
 </p>
 
