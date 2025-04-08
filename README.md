@@ -1,5 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF7F50&height=120&section=header"/> 
+Hello! My name is Clarice Helena França. I am 30 years old, I have a bachelor's degree in Industrial Chemistry and I am currently studying Data Science at EBAC.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8B0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Clarice+Helena+França;I'm+30+years+old;I'm+from+Brazil;Currently+studying+Data+Science+at+EBAC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+With an analytical profile that I have been developing since college, I decided to transition to the data area, which I have been falling in love with with each module studied and project completed.
+
+This is my space for collaboration and more learning. It will be a pleasure to have you as a colleague on this journey!
 
 ### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
